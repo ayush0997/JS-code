@@ -24,3 +24,5 @@
    		 output = output + "</tr>";
    		 j = 1;
     }
+
+    // you will get multiplication of a given input
